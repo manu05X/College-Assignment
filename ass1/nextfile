@@ -1,0 +1,6 @@
+#!/bin/bash
+
+rm -rf d1 
+#!/bin/bash
+
+date +"%d/%m/%y"
